@@ -1,0 +1,13 @@
+body {
+    background-color: #edb3e1; /* This is a shade of orange. */
+    }
+    h1 {
+    color: #f7f3f3; 
+    text-align: center;
+    font-style: italic;
+    font-size: 500%;
+    }
+    h2 {
+    font-style:normal;
+    border-bottom: 3px solid #e90b76; /* Add a line below h2s */
+    }
